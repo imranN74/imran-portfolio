@@ -1,6 +1,6 @@
 export function Footer() {
   return (
-    <div className="mt-5 bg-gradient-to-r from-black-100 to-green-200 py-2 w-full">
+    <div className="mt-5 bg-gradient-to-r from-white to-green-200 py-2 w-full">
       <div className="flex gap-5 justify-center ">
         <a
           href="https://github.com/imranN74/joblytics"
@@ -43,7 +43,7 @@ export function Footer() {
         <a
           href="https://www.linkedin.com/in/imran-nazir-ansari-414a141b2/"
           title="imran's linkdin"
-          className="cursor-pointer"
+          className="cursor-pointer "
         >
           <svg
             className="w-7 h-7 text-gray-800 dark:text-white"
