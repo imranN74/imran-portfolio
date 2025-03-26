@@ -73,28 +73,16 @@ export const project = [
     liveLink: "https://joblytics.vercel.app/",
   },
   {
-    thumbnail: "projects-thumbnails/joblytics.png",
-    keyInfo: "",
-    projectName: "JobLytics",
-    projectIntro: "A tool for job seekers to manage job applications",
+    thumbnail: "projects-thumbnails/oneseva.png",
+    keyInfo: "Freelance Project",
+    projectName: "Oneseva",
+    projectIntro: "An Online Cyber Cafe for documentation",
     projectDesc:
       "Joblytics features include job application tracking, customizable status stages (applied, interviewed, offered), a notes section for each application, contact details for each application, data insights for tracking trends and success rates, and a user-friendly interface for seamless job application management",
     techStack:
       "Typescript, React, Recoil, ExpressJS, PostgreSQL, Prisma ORM, Zod, JWT.",
     githubLink: "https://github.com/imranN74/joblytics",
-    liveLink: "https://joblytics.vercel.app/",
-  },
-  {
-    thumbnail: "projects-thumbnails/joblytics.png",
-    keyInfo: "",
-    projectName: "JobLytics",
-    projectIntro: "A tool for job seekers to manage job applications",
-    projectDesc:
-      "Joblytics features include job application tracking, customizable status stages (applied, interviewed, offered), a notes section for each application, contact details for each application, data insights for tracking trends and success rates, and a user-friendly interface for seamless job application management",
-    techStack:
-      "Typescript, React, Recoil, ExpressJS, PostgreSQL, Prisma ORM, Zod, JWT.",
-    githubLink: "https://github.com/imranN74/joblytics",
-    liveLink: "https://joblytics.vercel.app/",
+    liveLink: "https://oneseva.in/",
   },
   {
     thumbnail: "projects-thumbnails/joblytics.png",

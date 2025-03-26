@@ -16,7 +16,7 @@ export function Projects() {
                 key={index}
               >
                 <img
-                  src="projects-thumbnails/joblytics.png"
+                  src={data.thumbnail}
                   alt="joblytics"
                   className="rounded-3xl"
                 />
@@ -25,6 +25,9 @@ export function Projects() {
                     {data.projectName}
                   </span>
                   :<span>{data.projectIntro}</span>
+                </div>
+                <div className="py-2 text-xl font-bold text-red-500">
+                  {data.keyInfo}
                 </div>
                 <div className="flex justify-center items-center gap-10 mb-2">
                   <a
