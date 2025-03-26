@@ -2,13 +2,13 @@ import { project } from "@/utils/data";
 
 export function Projects() {
   return (
-    <div className="text-center mx-16 mt-5 text-white" id="projects">
+    <div className="text-center mx-5 md:mx-16 mt-5 text-white" id="projects">
       <p className="text-red-500 text-3xl md:text-5xl">
         <span className="text-white">{"<"}</span>PROJECTS
         <span className="text-white">{">"}</span>
       </p>
       <div className="flex justify-center items-center">
-        <div className="mt-5 grid grid-cols-2 gap-4">
+        <div className="mt-5 grid grid-cols-2 gap-8">
           {project.map((data, index) => {
             return (
               <div
