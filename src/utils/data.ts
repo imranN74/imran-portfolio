@@ -76,7 +76,7 @@ export const project = [
     thumbnail: "projects-thumbnails/oneseva.png",
     keyInfo: "Freelance Project",
     projectName: "Oneseva",
-    projectIntro: "An Online Cyber Cafe for documentation",
+    projectIntro: "An Online Cyber Cafe for documents",
     projectDesc:
       "Joblytics features include job application tracking, customizable status stages (applied, interviewed, offered), a notes section for each application, contact details for each application, data insights for tracking trends and success rates, and a user-friendly interface for seamless job application management",
     techStack:

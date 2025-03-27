@@ -20,11 +20,11 @@ export function Projects() {
                   alt="joblytics"
                   className="rounded-3xl"
                 />
-                <div className="text-xl p-3 flex gap-1">
+                <div className="text-xl p-3 flex">
                   <span className="font-semibold text-red-500">
                     {data.projectName}
                   </span>
-                  :<span>{data.projectIntro}</span>
+                  -<span>{data.projectIntro}</span>
                 </div>
                 <div className="py-2 text-xl font-bold text-red-500">
                   {data.keyInfo}
